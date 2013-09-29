@@ -1,0 +1,5 @@
+D:\SkyDrive\Telerik\Win 8 XAML\Gestures\Sumc\Sumc.Models.Response\bin\Debug\Sumc.Models.Response.dll
+D:\SkyDrive\Telerik\Win 8 XAML\Gestures\Sumc\Sumc.Models.Response\bin\Debug\Sumc.Models.Response.pdb
+D:\SkyDrive\Telerik\Win 8 XAML\Gestures\Sumc\Sumc.Models.Response\obj\Debug\Sumc.Models.Response.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Telerik\Win 8 XAML\Gestures\Sumc\Sumc.Models.Response\obj\Debug\Sumc.Models.Response.dll
+D:\SkyDrive\Telerik\Win 8 XAML\Gestures\Sumc\Sumc.Models.Response\obj\Debug\Sumc.Models.Response.pdb
